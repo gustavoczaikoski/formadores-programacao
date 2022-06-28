@@ -1,1 +1,1 @@
-# grupoDeEstudosPensamentoComputacional
+# Grupo De Estudos - Pensamento Computacional
