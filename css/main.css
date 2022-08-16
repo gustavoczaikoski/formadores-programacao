@@ -3,8 +3,10 @@ body {
 }
 
 #img-frente{
-  height: 100%;
-  width: 50%%;
+  height: 120px;
+  width: 300px;
+  margin: -150px;
+  left: 50%;
 }
 
 h1 { 
