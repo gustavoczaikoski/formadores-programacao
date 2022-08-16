@@ -32,3 +32,5 @@ h2 {
   background-color:azure;
 }
 
+li::marker{content: "U+272F";}
+
