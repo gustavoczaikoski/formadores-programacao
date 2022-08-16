@@ -32,5 +32,6 @@ h2 {
   background-color:azure;
 }
 
-li::marker{content: "\272F";}
+li::marker{content: "\272F ";}
+
 
