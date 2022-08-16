@@ -3,8 +3,8 @@ body {
 }
 
 #img-frente{
-  height: 300px;
-  width: auto;
+  height: 100%;
+  width: 100%;
 }
 
 h1 { 
