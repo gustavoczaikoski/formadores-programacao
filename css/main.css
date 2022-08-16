@@ -3,9 +3,11 @@ body {
 }
 
 #img-frente{
+  position: relative;
   height: 240px;
   width: 600px;
-  margin: -150px;
+  margin-left: -300px;
+  left: 50%;
 }
 
 h1 { 
