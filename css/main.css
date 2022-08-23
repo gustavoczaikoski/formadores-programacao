@@ -29,13 +29,13 @@ h2 {
 }
 
 .texto{
-  background-color:azure;
+  background-color: skyblue;
 }
 
 li::marker{content: "\1F6E0 ";}
 
 ul{
-  display: block;
+  display: inline-block;
 }
 
 #carro-antigo{
