@@ -34,4 +34,12 @@ h2 {
 
 li::marker{content: "\1F6E0 ";}
 
+ul{
+  display: block;
+}
+
+#carro-antigo{
+  width: 35%;
+}
+
 
